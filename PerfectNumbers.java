@@ -9,7 +9,7 @@ public class PerfectNumbers {
                 }
             }
             if (sum == num) {
-                System.out.println(num);
+                System.out.println(" " +num);
             }
         }
     }
